@@ -1,0 +1,44 @@
+type: edu
+files:
+  - name: src/calculator/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Test.java
+    visible: false
+    learner_created: false
+  - name: src/calculator/NumberExpression.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/SubtractionExpression.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/MultiplicationExpression.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/Expression.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/DivisionExpression.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/Parser.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/Interpreter.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/Context.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/AdditionExpression.java
+    visible: true
+    learner_created: true
+  - name: src/calculator/Assignments.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5322#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 15 Nov 2024 08:48:20 UTC"
+record: 7
